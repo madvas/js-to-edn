@@ -1,6 +1,6 @@
 (defproject js-to-edn "0.1.0-SNAPSHOT"
-  :description "FIXME: write this!"
-  :url "http://example.com/FIXME"
+  :description "Simple command line utility to convert Javascript data structure (map or array) or JSON to formatted EDN."
+  :url "https://github.com/madvas/js-to-edn"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.8.51"]
                  [com.cognitect/transit-cljs "0.8.237"]]
